@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'penlogit': Penalized logistic regression (PLR) Use penlogit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f penlogit.ado
+f penlogit.sthlp
