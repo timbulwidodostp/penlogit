@@ -1,6 +1,8 @@
 # penlogit
 Penalized logistic regression (PLR) Use penlogit With STATA 18
 
+https://www.youtube.com/watch?v=WEmA_IHY4PY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
